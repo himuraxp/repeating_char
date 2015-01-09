@@ -1,5 +1,5 @@
 #!/bin/bash
-#Test vers Guithub
+
 # Initialiser le fichier client.
 
 for FILE in $*
